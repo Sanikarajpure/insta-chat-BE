@@ -23,6 +23,7 @@ const io = new Server(server, {
     origin: "http://localhost:3000",
     methods: ["GET", "POST"],
   },
+  path: "/mysocket",
 });
 
 io.on("connection", (socket) => {
