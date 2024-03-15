@@ -4,9 +4,9 @@ A real time chat application using sockets- server
 
 ## Step 1: Clone or download the repository to your machine
 
-### Step 2: Run `npm i` to install dependencies
+## Step 2: Run `npm i` to install dependencies
 
-# Step 3: Run  `npm run server` script to start the Server
+## Step 3: Run  `npm run server` script to start the Server
 Runs the server using nodemon on port 3002 -- making changes will restart the server
 
 ### This Node.js server is set up using the Express framework and Socket.IO for handling real-time bidirectional communication between clients and the server. 
